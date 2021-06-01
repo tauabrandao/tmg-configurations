@@ -1,0 +1,5 @@
+message-generator:
+  welcome: "Salut"
+  welcomeMessage: "Bienvenu(e) à notre application!"
+  bye: "À bientôt"
+  byeMessage: "Nous espérons vous voir bientôt."
