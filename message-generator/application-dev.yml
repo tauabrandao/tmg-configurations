@@ -1,5 +1,5 @@
 message-generator:
   welcome: "Hello"
   welcomeMessage: "Welcome to the app!"
-  bye: "Bye"
+  bye: "Bye bye"
   byeMessage: "Thank you for visiting us."
